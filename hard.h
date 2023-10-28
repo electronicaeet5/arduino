@@ -1,5 +1,6 @@
 #ifndef __HARD_H__
 
+//Numero de pines del puente H
 #define MOT_DER_A   9
 #define MOT_DER_B   12
 #define MOT_IZQ_A   13
